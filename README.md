@@ -24,6 +24,8 @@ JacaScrirt code snippets
 
 console.log("My name is Yulia, my group is МТМО-26-3")
 
+```
+
 <img width="314" height="400" alt="image" src="https://github.com/user-attachments/assets/641130b6-198a-4319-9614-09d468025f7c" />
 
 
