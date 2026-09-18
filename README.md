@@ -9,7 +9,7 @@ JavaScript code snippets
 2. Вторая пара
 3. Третья пара
 
-[Проект code101 GitHub] (https://github.com/m112521/code101.git)
+[Проект code101 GitHub]  (https://github.com/m112521/code101.git)
 
 | Заголовок 1 | Заголовок 2 |
 | -------- | -------- |
