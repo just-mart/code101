@@ -1,4 +1,4 @@
 # code101
-Java Script code snippets
+JacaScrirt code snippets
 
-**My first repository**
+**My first repository on GT, so exited!**
